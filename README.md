@@ -20,13 +20,29 @@ Consiste en una aplicación web donde los usuarios pueden ingresar los nombres d
 
 ## Capturas de Pantalla
 
-![imagen/inicio.png]
-![imagen/sorteo.png]
-![imagen/ingreso-incorrecto.png]
-![imagen/maximo-intento.png]
+### Inicio
+
+![imagen/inicio.png](https://github.com/GabiiLopez01/Desafio-Amigo-Secreto-alura/blob/9ad7148d50b21da7428355bc0836cac6b141ae30/imagen/inicio.png)
 
 
-## Cómo Usar
+### Sorteo
+
+![imagen/sorteo.png](https://github.com/GabiiLopez01/Desafio-Amigo-Secreto-alura/blob/9ad7148d50b21da7428355bc0836cac6b141ae30/imagen/sorteo.png)
+
+
+### Ingreso Incorrecto
+
+![imagen/ingreso-incorrecto.png](https://github.com/GabiiLopez01/Desafio-Amigo-Secreto-alura/blob/9ad7148d50b21da7428355bc0836cac6b141ae30/imagen/ingreso-incorrecto.png)
+
+
+
+### Máximo Intento
+
+![imagen/maximo-intento.png](https://github.com/GabiiLopez01/Desafio-Amigo-Secreto-alura/blob/9ad7148d50b21da7428355bc0836cac6b141ae30/imagen/maximo-intento.png)
+
+
+
+## ¿Cómo Funciona?
 
 1. **Ingresar nombres**:
    - Escribe el nombre de un participante en el campo "Ingresa un nombre".
