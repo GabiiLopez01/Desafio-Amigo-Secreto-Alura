@@ -20,8 +20,11 @@ Consiste en una aplicación web donde los usuarios pueden ingresar los nombres d
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](screenshot1.png)
-![Captura de pantalla 2](screenshot2.png)
+![imagen/inicio.png]
+![imagen/sorteo.png]
+![imagen/ingreso-incorrecto.png]
+![imagen/maximo-intento.png]
+
 
 ## Cómo Usar
 
